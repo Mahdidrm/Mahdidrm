@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahdi
+- 👋 Hi, I’m Mahdi
 - 👀 I’m interested in Deep Learning and Machine Vision challanges.
 - 🌱 I’m currently learning deep neural networks and their applications on image processing and machine vision.
 - 💞️ I’m looking to collaborate on any machine vision projects which related to medical science.
