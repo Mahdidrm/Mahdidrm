@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning deep neural networks and their applications on image processing and machine vision.
 - 💞️ I’m looking to collaborate on any machine vision projects which related to medical science.
 - 📫 How to reach me ? mehdidrm@gmail.com
+- My LinkedIn page: https://www.linkedin.com/in/deramgozin/
 
 <!---
 Mahdidrm/Mahdidrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
